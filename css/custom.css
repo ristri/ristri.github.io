@@ -1,0 +1,17 @@
+.customBg{
+    background-image: url("../images/bg.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    }
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    }
+.bgcolor{
+    background: #337ab7;
+    color: white;
+    }
+#preload{
+    display: none;
+}
