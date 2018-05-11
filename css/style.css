@@ -37,7 +37,10 @@ h3{
     margin: 0px 15px 15px 15px;
     font-size: 30px;
 }
-a:link{
+a:visited {
+    color:white; 
+}
+a:link {
     color:white;
     text-decoration: transparent;
 }
