@@ -1,3 +1,6 @@
+html{
+    text-rendering: optimizeLegibility;
+}
 body{
     overflow: hidden;
     background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
@@ -14,7 +17,7 @@ body{
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: 'Kaushan Script', cursive;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .item{
